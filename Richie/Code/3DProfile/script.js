@@ -1,0 +1,3 @@
+function cameraTurn() {
+    document.get
+}
